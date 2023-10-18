@@ -1,4 +1,4 @@
-- 👨🏻‍💻 **Estudando** Programação rumo ao back-end.
+- 👨🏻‍💻 **Estudando** Programação rumo ao Full-stack.
 - 🧗🏼 Apaixonado por **Exercícios Físicos**
 - 🖥️ Atualmente mais focado em:
 
