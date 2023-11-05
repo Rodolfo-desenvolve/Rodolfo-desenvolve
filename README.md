@@ -6,15 +6,12 @@
   
   <img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 
-  <img  width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  
-
-- 🖥️ Tecnologias para Front-end:
+- 🖥️ Para Front-end:
 
   <img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   
   <img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-- 🖥️ Banco de dados atuais :
+- 🖥️ Banco de dados:
   
   <img  width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
   
