@@ -1,3 +1,5 @@
+Olá o meu nome é Rodolfo.
+
 - 👨🏻‍💻 Programação **back-end**.
 - 🧗🏼 Apaixonado por **Exercícios Físicos**.
 - 🖥️ Atualmente mais focado em:
