@@ -1,4 +1,4 @@
-Olá o meu nome é Rodolfo.
+Olá, meu nome é Rodolfo.
 
 - 👨🏻‍💻 Programação **back-end**.
 - 🧗🏼 Apaixonado por **Exercícios Físicos**.
