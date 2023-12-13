@@ -1,4 +1,4 @@
-Olá, meu nome é Rodolfo.
+## Olá, meu nome é Rodolfo.
 
 - 👨🏻‍💻 Programação **back-end**.
 - 🧗🏼 Apaixonado por **Exercícios Físicos**.
@@ -17,3 +17,10 @@ Olá, meu nome é Rodolfo.
   <img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
   <img  width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+
+### Você também pode encontrar em:
+  <a href="https://www.linkedin.com/in/rodolfo-bezerra-ab071a277/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  
