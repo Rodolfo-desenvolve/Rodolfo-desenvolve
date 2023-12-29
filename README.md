@@ -1,4 +1,4 @@
-### Olá, meu nome é Rodolfo.
+## Olá, meu nome é Rodolfo.
 
 - 👨🏻‍💻 Programação **Back-end** Principal:
 - 👨🏻‍💻 Programação **Front-end** Secundário:
@@ -26,7 +26,7 @@
   <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-### Você também pode encontrar em:
+## Você também pode encontrar em:
   <a href="https://www.linkedin.com/in/rodolfo-bezerra-ab071a277/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
