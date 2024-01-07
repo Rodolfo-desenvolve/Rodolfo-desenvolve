@@ -5,15 +5,15 @@
 - 🖥️ Atualmente mais focado em:
   
   <div style='display: flex;'>
-  <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-  <img  width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img  width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   
-  <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
-  <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
-  <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </div>
   
 
