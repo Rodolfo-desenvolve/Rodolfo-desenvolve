@@ -27,7 +27,7 @@
   
   <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-## Você também pode encontrar em:
+## Você também pode me encontrar em:
   <a href="https://www.linkedin.com/in/rodolfo-bezerra-ab071a277/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
