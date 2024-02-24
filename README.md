@@ -25,7 +25,7 @@
 
   <img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   
-  <img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 ## Você também pode me encontrar em:
   <a href="https://www.linkedin.com/in/rodolfo-bezerra-ab071a277/">
