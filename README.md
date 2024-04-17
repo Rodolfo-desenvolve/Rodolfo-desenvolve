@@ -19,11 +19,7 @@
 
 - 🖥️ Outras Tecnologias :
 
-  <img   width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-
   <img  width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-
-  <img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   
   <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
