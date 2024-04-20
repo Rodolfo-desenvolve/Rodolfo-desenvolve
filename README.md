@@ -1,4 +1,5 @@
 ## Olá, meu nome é Rodolfo.
+## Hi, my name is Rodolfo.
 
 - 👨🏻‍💻 Programação **Back-end** Principal;
 - 👨🏻‍💻 Programação **Front-end** Secundário;
