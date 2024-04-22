@@ -1,5 +1,5 @@
 ## Olá, meu nome é Rodolfo.
-## Hi, my name is Rodolfo.
+## Hello, my name is Rodolfo.
 
 - 👨🏻‍💻 Programação **Back-end**;
 - 👨🏻‍💻 Programação **Front-end**;
