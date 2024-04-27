@@ -15,14 +15,11 @@
   <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
   <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  </div>
-  
-
-- 🖥️ Outras Tecnologias:
 
   <img  width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
   
   <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  </div>
 
 ## Você também pode me encontrar em:
   <a href="https://www.linkedin.com/in/rodolfo-bezerra-ab071a277/">
