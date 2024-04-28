@@ -1,5 +1,4 @@
-## Olá, meu nome é Rodolfo.
-## Hello, my name is Rodolfo.
+<h2> Olá, meu nome é Rodolfo.</h2>
 
 - 👨🏻‍💻 Programação **Back-end**;
 - 👨🏻‍💻 Programação **Front-end**;
@@ -21,7 +20,7 @@
   <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </div>
 
-## Você também pode me encontrar em:
+<h2> Você também pode me encontrar em: </h2>
   <a href="https://www.linkedin.com/in/rodolfo-bezerra-ab071a277/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
