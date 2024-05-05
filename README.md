@@ -1,6 +1,6 @@
 <h2> Olá, meu nome é Rodolfo.</h2>
 
-- 👨🏻‍💻 Programação **Full-Stack**;
+- 👨🏻‍💻 Programação Full-Stack;
 - 🖥️ Tecnologias:
   
   <div style='display: flex;'>
