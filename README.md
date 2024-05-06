@@ -1,9 +1,12 @@
 <h1> Olá, meu nome é Rodolfo.</h1>
 
-- 👨🏻‍💻 Programação Full-Stack;
+<br>
+- 👨🏻‍💻 Programação Full-Stack;<br><br>
 - 🖥️ Tecnologias:
-  
+<br>
+<br>
   <div style='display: flex;'>
+    
   <img width='45px' height='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
   <img  width='45px' height='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
@@ -17,6 +20,7 @@
   <img width='45px' height='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
   
   <img width='45px' height='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  
   </div>
 
 <h1> Você também pode me encontrar em: </h1>
