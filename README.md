@@ -2,6 +2,7 @@
 
 - 👨🏻‍💻 Programação Full-Stack;<br>
 - 🖥️ Tecnologias:
+<br>
   <div style='display: flex;'>
     
   <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
