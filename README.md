@@ -1,7 +1,10 @@
 <h1> Olá, meu nome é Rodolfo.</h1>
 
+<br>
+
 - 👨🏻‍💻 Programação Full-Stack;<br>
 - 🖥️ Tecnologias:
+  
 <br>
   <div style='display: flex;'>
     
