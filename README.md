@@ -2,7 +2,7 @@
 
 <br>
 
-- 👨🏻‍💻 Programação Full-Stack;<br>
+- 👨🏻‍💻 Programação Full-Stack;<br><br>
 - 🖥️ Tecnologias:
   
 <br>
