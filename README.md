@@ -6,7 +6,8 @@
 - 🖥️ Tecnologias:
   
 <br>
-  <div style='display: flex;'>
+
+<div style='display: flex;'>
     
   <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
@@ -22,11 +23,14 @@
   
   <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   
-  </div>
+</div>
+
 <h1> Você também pode me encontrar em: </h1>
+
   <a href="https://www.linkedin.com/in/rodolfo-bezerra-ab071a277/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
   <a href="https://github.com/Rodolfo-desenvolve">
   <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
