@@ -4,8 +4,6 @@
 
 - 👨🏻‍💻 Programação Full-Stack;<br><br>
 - 🖥️ Tecnologias:
-  
-<br>
 
 <div style='display: flex;'>
     
