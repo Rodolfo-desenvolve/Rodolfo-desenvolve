@@ -2,7 +2,7 @@
 
 <br>
 
-- 👨🏻‍💻 Programação Full-Stack;<br><br>
+- 👨🏻‍💻 Programação Full-Stack;<br>
 - 🖥️ Tecnologias:
 
 <div style='display: flex;'>
