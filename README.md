@@ -1,6 +1,6 @@
-<h1> Olá, meu nome é Rodolfo.</h1><br>
+<h1>Olá, meu nome é Rodolfo.</h1><br>
 
-- 👨🏻‍💻 Programação Full-Stack; <br>
+- 👨🏻‍💻 Programação Full-Stack;<br>
 - 🖥️ Tecnologias:<br>
 
 <div style='display: flex;'>
@@ -21,7 +21,7 @@
   
 </div><br>
 
-<h1> Você também pode me encontrar em: </h1>
+<h1>Você também pode me encontrar em:</h1>
 
   <a href="https://www.linkedin.com/in/rodolfo-bezerra-ab071a277/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
