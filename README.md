@@ -17,8 +17,6 @@
 
   <img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
   
-  <img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  
 </div><br>
 
 <h1>Você também pode me encontrar em:</h1>
