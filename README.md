@@ -19,7 +19,7 @@
   
 </div><br>
 
-<h1>Você também pode me encontrar em:</h1><br>
+<h1>Você também pode me encontrar em:</h1>
 
   <a href="https://www.linkedin.com/in/rodolfo-bezerra-ab071a277/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
