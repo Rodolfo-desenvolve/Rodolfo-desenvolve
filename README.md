@@ -1,4 +1,4 @@
-<h1>Olá, meu nome é Rodolfo.</h1><br>
+<h1>Olá, meu nome é Rodolfo.</h1>
 
 - 👨🏻‍💻 Programação Full-Stack;<br><br>
 - 🖥️ Tecnologias:<br>
