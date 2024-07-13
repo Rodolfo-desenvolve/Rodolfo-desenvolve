@@ -1,7 +1,7 @@
 <h1>Olá, meu nome é Rodolfo.</h1>
 
 - 👨🏻‍💻 Programação Full-Stack;<br>
-- 🖥️ Competencias:<br>
+- 🖥️ Competências:<br>
 
 <div style='display: flex;'>
     
