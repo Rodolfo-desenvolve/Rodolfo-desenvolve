@@ -28,5 +28,3 @@
   <a href="https://github.com/Rodolfo-desenvolve">
   <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a><br>
-
-  
