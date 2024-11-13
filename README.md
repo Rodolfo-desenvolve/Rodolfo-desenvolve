@@ -2,6 +2,7 @@
 
 - 👨🏻‍💻 Programação Full-Stack;<br>
 - 🖥️ Competências:<br>
+- <a href="https://rodolfo-desenvolve.github.io/portfolio_freela/"> 👨🏻‍💻 Portfólio</a>
 
 <div style='display: flex;'>
     
