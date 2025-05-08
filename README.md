@@ -1,3 +1,28 @@
+# 💻  Rodolfo Bezerra #
+
+**'Desenvolvedor Fullstack'**
+
+Desenvolvimento web: Python | Django | SQL | Html | Css e scss | JavaScripts | Boostrap.
+Em contato com a programação desde 2022.
+
+Sobre mim:
+
+Boa lógica de programação e resolução de problemas.
+️Estudo dedicado em programação.
+️Python é minha linguagem de programação preferida.
+
+Experiência:
+
+Durante meus estudos tive a oportunidade de trabalhar em projetos como: desenvolvimento desktop, desenvolvimento web e uso de APIs, projetos esses me ajudaram a praticar, no momento em busca de aprender mais.
+
+O que busco:
+
+Estou em busca de oportunidades de projetos freelances ou trabalhar em empresas, mais especificamente no desenvolvimento web, seja no front-end ou back-end, particularmente interessado em vagas de python, porém estou aberto a conhecer outras linguagens e tecnologias.
+
+
+
+
+
 <h1>Olá, meu nome é Rodolfo.</h1>
 
 - 👨🏻‍💻 Programação **Full-Stack**;<br>
