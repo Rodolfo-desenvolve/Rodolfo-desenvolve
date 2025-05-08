@@ -1,6 +1,6 @@
 <h1>Olá, meu nome é Rodolfo.</h1>
 
-- 👨🏻‍💻 Programação Full-Stack;<br>
+- 👨🏻‍💻 Programação **Full-Stack**;<br>
 - 🖥️ Competências:<br>
 - <a href="https://rodolfo-desenvolve.github.io/portfolio_freela/"> 👨🏻‍💻 Portfólio</a>
 
@@ -15,7 +15,9 @@
 
   <img width='35px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-  <img width='35px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+  <img width='35px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
+  <img width='35px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'>
 </div><br>
 
 <h1>Você também pode me encontrar em:</h1>
