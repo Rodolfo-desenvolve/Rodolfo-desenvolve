@@ -5,12 +5,12 @@
 Em contato com a programação desde 2022.
 
 🧩 Boa lógica de programação e resolução de problemas.
+ 
+👨‍💻 Estudo dedicado em programação.
 
-💻 Estudo dedicado em programação.
-
->Durante meus estudos tive a oportunidade de trabalhar em projetos como: desenvolvimento desktop, desenvolvimento web e uso de APIs, projetos esses me ajudaram a praticar, no momento em busca de aprender mais.
+>Durante meus estudos tive a oportunidade de trabalhar em projetos como: `desenvolvimento desktop`, `desenvolvimento web` e uso de `APIs`, projetos esses me ajudaram a praticar, no momento em busca de aprender mais.
   
->Estou em busca de oportunidades de projetos freelances ou trabalhar em empresas, mais especificamente no desenvolvimento web, seja no front-end ou back-end, particularmente interessado em vagas de python, porém estou aberto a conhecer outras linguagens e tecnologias.
+>Estou em busca de oportunidades de projetos freelances ou trabalhar em empresas, mais especificamente no desenvolvimento web, seja no `front-end` ou`back-end`, particularmente interessado em vagas de `python`, porém estou aberto a conhecer outras linguagens e tecnologias.
 
 <a href="https://www.linkedin.com/in/rodolfo-bezerra-ab071a277/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -46,4 +46,5 @@ Em contato com a programação desde 2022.
   <img width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
           
 </div><br>
+
 
