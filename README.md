@@ -41,7 +41,6 @@ Em contato com a programação desde 2022.
   <img width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
   <img width='30px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'>
-
   
   <img width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
           
